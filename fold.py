@@ -1,3 +1,6 @@
+"""本文件用于数据加密"""
+
+
 from random import randint
 
 printable = r"""0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"""
